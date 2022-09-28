@@ -15,9 +15,10 @@ jobs:
       - name: build_and_deploy
         uses: shalzz/zola-deploy-action@v0.14.1
         env:
-          # Target branch
-          PAGES_BRANCH: gh-pages
           # Provide personal access token
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          TOKEN: ${{ secrets.GH_TOKEN }}
           # Or if publishing to the same repo, use the automatic token
           #TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Target branch
+          PAGES_BRANCH: gh-pages
+          
