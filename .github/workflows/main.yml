@@ -3,7 +3,7 @@ on: push
 name: Build and deploy GH Pages
 
 env:
-  GH_TOKEN: ${{secrets.GH_TOKEN}}
+  TOKEN: ${{secrets.GH_TOKEN}}
   
 jobs:
   build:
