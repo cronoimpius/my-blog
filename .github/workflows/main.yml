@@ -2,8 +2,8 @@
 on: push
 name: Build and deploy GH Pages
 
-env:
-  TOKEN: ${{secrets.GH_TOKEN}}
+#env:
+#  TOKEN: ${{secrets.GH_TOKEN}}
   
 jobs:
   build:
@@ -18,6 +18,6 @@ jobs:
           # Target branch
           PAGES_BRANCH: gh-pages
           # Provide personal access token
-          TOKEN: ${{secrets.GH_TOKEN}}
+          TOKEN: ${{ secrets.GH_TOKEN }}
           # Or if publishing to the same repo, use the automatic token
           #TOKEN: ${{ secrets.GITHUB_TOKEN }}
