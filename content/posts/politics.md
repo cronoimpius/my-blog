@@ -1,6 +1,6 @@
 +++
 title = "Italian Elections"
-description = "thought on italian recent elections"
+description = "Thought on italian recent elections"
 date = "2022-09-29"
 
 [taxonomies]
