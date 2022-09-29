@@ -65,17 +65,17 @@ menus = [
 [[extra.social]]
 icon = "github"
 name = "GitHub"
-url = "https://github.com/"
+url = "https://github.com/cronoimpius"
 
 [[extra.social]]
 icon = "twitter"
 name = "Twitter"
-url = "https://"
+url = "https://twitter.com/gianmiriano"
 
 [[extra.social]]
 icon = "gitlab"
 name = "GitLab"
-url = "https://"
+url = "https://gitlab.com/cronoimpius"
 
 [[extra.socila]]
 icon = "reddit"
