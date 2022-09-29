@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://gianmiriano.cyou"
 
+#title
+title = "Word in my eyes"
+description = "what i see"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
