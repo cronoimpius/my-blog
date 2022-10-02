@@ -3,7 +3,7 @@ base_url = "https://gianmiriano.cyou"
 
 #title
 title = "Word in my eyes"
-description = "what i see"
+description = "La proiezione virtuale del tuo io digitale"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -31,7 +31,7 @@ highlight_theme = "OneHalfLight"
 mode = "toggle"
 
 # subtitle will show under the title in index page
-subtitle = "La proiezione virtuale del tuo io digitale"
+#subtitle = "La proiezione virtuale del tuo io digitale"
 
 # if set true, will use external CDN resource to load font and js file
 useCDN = false
