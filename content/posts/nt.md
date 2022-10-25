@@ -8,4 +8,4 @@ tags = ["EN","Number Theory"]
 +++
 
 # Intro
-![Prova immagine](../../static/imgs/arch-01.png)
+![Prova immagine](../../static/imgs/salvini.png)
