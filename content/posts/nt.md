@@ -9,4 +9,4 @@ tags = ["EN","Number Theory"]
 
 # Intro
 <img src ="/imgs/salvini.png" width = "150" height = "150">
-[//:] # ![Prova immagine](/imgs/salvini.png)
+<! --- # ![Prova immagine](/imgs/salvini.png) --->
