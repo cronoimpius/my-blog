@@ -8,4 +8,4 @@ tags = ["EN","Number Theory"]
 +++
 
 # Intro
-![Prova immagine](https://citynews-viterbotoday.stgy.ovh/~media/49871293960187/caprarola-matteo-salvini-raccoglie-castagne-2.jpg)
+![Prova immagine](/imgs/salvini.png)
