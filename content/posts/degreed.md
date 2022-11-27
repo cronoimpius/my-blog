@@ -7,12 +7,12 @@ date = "2022-11-26"
 tags = ["EN", "personal"]
 +++
 
-#My graduation
+# My graduation
 
 Almost 2 months ago i was coronated engineer. Why tolk now about that?
 I don't know.
 
-#Feels
+# Feels
 
 This is a short post about my impressions of my graduaation cerimony.
 It is a bachelor degree, so it is not a big deal on today's standards.
@@ -43,7 +43,7 @@ Now I start again my journey to go who knows where but I can say I'm more happy 
 
 I want to make big things, I hope that i would.
 
-#P.S.
+# P.S.
 
 This post is all a fake.
 
@@ -51,12 +51,12 @@ I only want to flex my dress and my beauty on that day.
 <div class = "row">
     <figure>
         <div class="column">
-            <img src="/imgs/deg.png" height=250 width=300>
-            <img src="/imgs/deg1.png" height=250 width=300>
+            <img src="/imgs/deg.png" height=200 width=300>
+            <img src="/imgs/deg1.png" height=200 width=300>
         </div>
         <div class="column">
-            <img src="/imgs/deg2.png" height=250 width=300>
-            <img src="/imgs/deg3.png" height=250 width=300>
+            <img src="/imgs/deg2.png" height=200 width=300>
+            <img src="/imgs/deg3.png" height=200 width=300>
         </div>
         <figcaption> All my beauty and happiness </figcaption>
     </figure>
