@@ -51,12 +51,12 @@ I only want to flex my dress and my beauty on that day.
 <div class = "row">
     <figure>
         <div class="column">
-            <img src="/imgs/deg.png">
-            <img src="/imgs/deg1.png">
+            <img src="/imgs/deg.png" height=150 width=150>
+            <img src="/imgs/deg1.png" height=150 width=150>
         </div>
         <div class="column">
-            <img src="/imgs/deg2.png">
-            <img src="/imgs/deg3.png">
+            <img src="/imgs/deg2.png" height=150 width=150>
+            <img src="/imgs/deg3.png" height=150 width=150>
         </div>
         <figcaption> All my beauty and happiness </figcaption>
     </figure>
