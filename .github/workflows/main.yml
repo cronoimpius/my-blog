@@ -5,6 +5,8 @@ name: Build and deploy GH Pages
 jobs:
   build:
     runs-on: ubuntu-latest
+    container:
+      options: --user 1001
     if: github.ref == 'refs/heads/master'
     steps:
       - name: checkout master
