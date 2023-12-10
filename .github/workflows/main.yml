@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: checkout master
         uses: actions/checkout@v3
+      - name: my-scanner
+        run: /scripts/entrypoint.sh
       - name: build_and_deploy
         uses: shalzz/zola-deploy-action@v0.16.1
         env:
