@@ -1,5 +1,5 @@
 +++
-title = " A special day "
+title = "A special day "
 description = " What to aspect from a graduation "
 date = "2022-11-26"
 

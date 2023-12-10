@@ -71,4 +71,6 @@ It's difficult to have hope in this historical moment, and of that movement.
 
 But it is the only think that we have left...
 
+# Edit
 
+At the end wath i was hoping didn't happen so well ... we're full of shit
